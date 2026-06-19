@@ -281,5 +281,5 @@ See the `https://github.com/nothingnhm/AD-Sentinel-Splunk-Based-Active-Directory
 **Ananda Das**
 Cybersecurity Student | SOC Analyst Learner | Active Directory & SIEM Lab Builder
 
-GitHub: `@nothingnhm`
+GitHub: `[@nothingnhm]`(https://github.com/your-github-username)
 Project: **AD Sentinel: Splunk-Based Active Directory Detection Lab**
