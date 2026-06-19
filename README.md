@@ -1,9 +1,9 @@
-# Active Directory Attack Detection and SIEM Monitoring Lab
+# AD Sentinel: Splunk-Based Active Directory Detection Lab
 Active Directory Attack Detection and SIEM Monitoring Lab using Splunk to collect Windows security logs, monitor authentication activity, and detect lab-simulated attacks like brute force, LLMNR poisoning, Kerberoasting, credential dumping, and lateral movement.
 
 ## Project Overview
 
-The **Active Directory Attack Detection and SIEM Monitoring Lab** is a hands-on cybersecurity project designed to simulate, detect, and investigate suspicious activity in a Windows Active Directory environment using **Splunk SIEM**.
+The **AD Sentinel: Splunk-Based Active Directory Detection Lab** is a hands-on cybersecurity project designed to simulate, detect, and investigate suspicious activity in a Windows Active Directory environment using **Splunk SIEM**.
 
 This lab was built to understand how common Active Directory attack techniques generate security telemetry and how SOC analysts can use Windows Event Logs, authentication logs, endpoint activity, and SIEM-based searches to identify potential threats.
 
