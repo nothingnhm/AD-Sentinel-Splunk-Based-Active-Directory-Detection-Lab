@@ -272,7 +272,7 @@ Do not use any technique, tool, or procedure against systems you do not own or d
 
 This project is licensed under the **MIT License**.
 
-See the `LICENSE` file for more details.
+See the `https://github.com/nothingnhm/AD-Sentinel-Splunk-Based-Active-Directory-Detection-Lab/blob/main/LICENSE` file for more details.
 
 ---
 
