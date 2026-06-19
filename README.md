@@ -240,19 +240,46 @@ The project helped strengthen practical skills in:
 This lab is useful for SOC Analyst L1/L2 preparation, cybersecurity portfolio development, and understanding how common Active Directory attack indicators can be detected in a controlled environment.
 
 ---
+## 📚 Documentation
 
-## Resume Bullet
+The project documentation is organized to explain the lab setup, architecture, detection logic, and investigation workflow.
 
-Built an Active Directory attack detection and SIEM monitoring lab using Windows Server, two Windows endpoints, Kali Linux, Splunk Enterprise, and Splunk Universal Forwarder to collect Windows security logs, analyze authentication events, and detect brute-force activity, Kerberos-related indicators, credential abuse, and lateral movement attempts in an authorized lab environment.
+| Document                       | Description                                                                                                                                                                |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lab Setup Guide**            | Step-by-step instructions for building the Active Directory lab, configuring Windows systems, installing Splunk Enterprise, and setting up Splunk Universal Forwarder      |
+| **Architecture Diagram**       | Visual representation of the lab network, Active Directory structure, log forwarding flow, and SIEM monitoring process                                                     |
+| **Detection Use Cases**        | Detection scenarios created for failed logins, suspicious authentication, Kerberos activity, privileged logons, credential abuse indicators, and lateral movement behavior |
+| **SPL Detection Queries**      | Defensive Splunk searches used to identify suspicious Windows and Active Directory activity                                                                                |
+| **SOC Investigation Workflow** | Analyst workflow for reviewing alerts, validating evidence, checking Windows Event IDs, and documenting findings                                                           |
+| **Detection Coverage Matrix**  | Mapping of detection use cases to relevant Windows Event IDs and MITRE ATT&CK techniques                                                                                   |
+| **Attack Simulation Overview** | High-level summary of authorized lab simulations used to generate security events for detection testing                                                                    |
+
+> Note: The attack simulation documentation is written from a defensive and educational perspective. It does not include instructions for unauthorized activity.
 
 ---
 
-## GitHub About Section
+## ⚠️ Disclaimer
 
-Active Directory attack detection lab using Splunk SIEM, Windows Event Logs, and Splunk Universal Forwarder to monitor authentication activity, detect suspicious logons, Kerberos indicators, credential abuse, and lateral movement in an authorized lab.
+This project was created strictly for educational, defensive security, and SOC Analyst training purposes.
+
+All simulations were performed inside an isolated and authorized lab environment. The techniques, detections, and workflows documented in this repository are intended to help understand Active Directory security monitoring, Windows Event Log analysis, Splunk SIEM investigation, and incident response fundamentals.
+
+Do not use any technique, tool, or procedure against systems you do not own or do not have explicit permission to test. Unauthorized access to computer systems, networks, or data is illegal.
 
 ---
 
-## Disclaimer
+## 📄 License
 
-This project was created strictly for educational, defensive security, and SOC Analyst training purposes. All simulations were performed inside an isolated and authorized lab environment. No real-world systems were targeted, and no unauthorized activity was performed.
+This project is licensed under the **MIT License**.
+
+See the `LICENSE` file for more details.
+
+---
+
+## 👤 Author
+
+**Ananda Das**
+Cybersecurity Student | SOC Analyst Learner | Active Directory & SIEM Lab Builder
+
+GitHub: `@nothingnhm`
+Project: **AD Sentinel: Splunk-Based Active Directory Detection Lab**
