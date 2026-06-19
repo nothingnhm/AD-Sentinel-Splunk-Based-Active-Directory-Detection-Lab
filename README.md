@@ -272,7 +272,7 @@ Do not use any technique, tool, or procedure against systems you do not own or d
 
 This project is licensed under the **MIT License**.
 
-See the `https://github.com/nothingnhm/AD-Sentinel-Splunk-Based-Active-Directory-Detection-Lab/blob/main/LICENSE` file for more details.
+See the [LICENSE](https://github.com/nothingnhm/AD-Sentinel-Splunk-Based-Active-Directory-Detection-Lab/blob/main/LICENSE) file for more details.
 
 ---
 
@@ -281,5 +281,5 @@ See the `https://github.com/nothingnhm/AD-Sentinel-Splunk-Based-Active-Directory
 **Ananda Das**
 Cybersecurity Student | SOC Analyst Learner | Active Directory & SIEM Lab Builder
 
-GitHub: `[@nothingnhm]`(https://github.com/your-github-username)
+GitHub: [@nothingnhm](https://github.com/your-github-username)
 Project: **AD Sentinel: Splunk-Based Active Directory Detection Lab**
